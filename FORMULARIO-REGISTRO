@@ -1,6 +1,6 @@
 HTML formulario
 <div class="center">
-  <h1>Our Newsletter</h1>
+  <h1>FORMULARIO</h1>
   <form>
     <div class="inputbox">
       <input type="text" required="required">
